@@ -6,7 +6,7 @@
       <class name="mockarooAutomation.MockarooDataValidation">
         <methods>
           <include name="afterClass"/>
-          <include name="TestN"/>
+          <include name="TestR"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- mockarooAutomation.MockarooDataValidation -->

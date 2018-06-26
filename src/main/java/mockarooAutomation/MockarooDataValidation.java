@@ -192,14 +192,38 @@ public class MockarooDataValidation {
 		System.out.println("shortest: "+sh);
 	}
 	
-	@Test //TASK 23-24
+	@Test //TASK 23-24-25
 	public void TestQ() { 
-		Set<String> unique = new HashSet<String>(countries);
-		for (String key : unique) {
+		Set<String> uniqueC = new HashSet<String>(countries);
+		for (String key : uniqueC) {
 		    System.out.println(key + ": " + Collections.frequency(countries, key));
 		}
 	}
+	@Test //count unique cities
+	public void TestR() {
+		Set<String> citiesSet = new HashSet<String>(cities);
+		List<String>cities2 =new ArrayList<String>();
+		for (String city : citiesSet) {
+			if (!cities2.contains(city))
+				cities2.add(city);
+		}
+		Assert.assertEquals(citiesSet.size(), cities2.size());
+		System.out.println("uniqueCities numbers: " + citiesSet.size());
+		System.out.println("citySet numbers: " + cities2.size());
+	}
 	
+	@Test
+	public void TestS() {
+		HashSet<String> countrySet = new HashSet<>(countries);
+		List<String> uniqueCountries = new ArrayList<>();
+		for (String country : countries) {
+			if (!uniqueCountries.contains(country))
+				uniqueCountries.add(country);
+		}
+		Assert.assertEquals(uniqueCountries.size(), countrySet.size());
+		System.out.println("uniqueCountries number : " + uniqueCountries.size());
+		System.out.println("Countries number: " + countrySet.size());
+	}	
 	@AfterClass 
 	public void afterClass() throws InterruptedException {
 		Thread.sleep(10000);
