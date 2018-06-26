@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26448" started-at="2018-06-26T06:47:18Z" finished-at="2018-06-26T06:47:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26448" started-at="2018-06-26T06:47:18Z" finished-at="2018-06-26T06:47:44Z">
+      <class name="mockarooAutomation.MockarooDataValidation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="setUp" is-config="true" duration-ms="6922" started-at="2018-06-26T06:47:18Z" finished-at="2018-06-26T06:47:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TestA()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestA" duration-ms="5" started-at="2018-06-26T06:47:24Z" finished-at="2018-06-26T06:47:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestA -->
+        <test-method status="PASS" signature="TestB()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestB" duration-ms="557" started-at="2018-06-26T06:47:24Z" finished-at="2018-06-26T06:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestB -->
+        <test-method status="PASS" signature="TestC()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestC" duration-ms="130" started-at="2018-06-26T06:47:25Z" finished-at="2018-06-26T06:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestC -->
+        <test-method status="PASS" signature="TestD()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestD" duration-ms="27" started-at="2018-06-26T06:47:25Z" finished-at="2018-06-26T06:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestD -->
+        <test-method status="PASS" signature="TestE()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestE" duration-ms="22" started-at="2018-06-26T06:47:25Z" finished-at="2018-06-26T06:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestE -->
+        <test-method status="PASS" signature="TestF()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestF" duration-ms="36" started-at="2018-06-26T06:47:25Z" finished-at="2018-06-26T06:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestF -->
+        <test-method status="PASS" signature="TestG()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestG" duration-ms="37" started-at="2018-06-26T06:47:25Z" finished-at="2018-06-26T06:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestG -->
+        <test-method status="PASS" signature="TestH()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestH" duration-ms="58" started-at="2018-06-26T06:47:25Z" finished-at="2018-06-26T06:47:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestH -->
+        <test-method status="PASS" signature="TestI()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestI" duration-ms="789" started-at="2018-06-26T06:47:25Z" finished-at="2018-06-26T06:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestI -->
+        <test-method status="PASS" signature="TestJ()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestJ" duration-ms="150" started-at="2018-06-26T06:47:26Z" finished-at="2018-06-26T06:47:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestJ -->
+        <test-method status="PASS" signature="TestK()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestK" duration-ms="725" started-at="2018-06-26T06:47:26Z" finished-at="2018-06-26T06:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestK -->
+        <test-method status="PASS" signature="TestL()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestL" duration-ms="1381" started-at="2018-06-26T06:47:27Z" finished-at="2018-06-26T06:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestL -->
+        <test-method status="PASS" signature="TestM()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestM" duration-ms="1122" started-at="2018-06-26T06:47:28Z" finished-at="2018-06-26T06:47:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestM -->
+        <test-method status="PASS" signature="TestN()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestN" duration-ms="1463" started-at="2018-06-26T06:47:30Z" finished-at="2018-06-26T06:47:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestN -->
+        <test-method status="PASS" signature="TestO()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestO" duration-ms="823" started-at="2018-06-26T06:47:31Z" finished-at="2018-06-26T06:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestO -->
+        <test-method status="PASS" signature="TestP()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestP" duration-ms="4" started-at="2018-06-26T06:47:32Z" finished-at="2018-06-26T06:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestP -->
+        <test-method status="PASS" signature="TestQ()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="TestQ" duration-ms="19" started-at="2018-06-26T06:47:32Z" finished-at="2018-06-26T06:47:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestQ -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:mockarooAutomation.MockarooDataValidation@39c0f4a]" name="afterClass" is-config="true" duration-ms="12129" started-at="2018-06-26T06:47:32Z" finished-at="2018-06-26T06:47:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- mockarooAutomation.MockarooDataValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
