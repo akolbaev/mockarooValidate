@@ -200,7 +200,7 @@ public class MockarooDataValidation {
 		}
 	}
 	
-	@AfterClass // TASK12-
+	@AfterClass 
 	public void afterClass() throws InterruptedException {
 		Thread.sleep(10000);
 		dr.close();
